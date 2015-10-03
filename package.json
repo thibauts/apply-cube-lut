@@ -1,0 +1,22 @@
+{
+  "name": "apply-cube-lut",
+  "version": "1.0.0",
+  "description": "Apply a Cube (IRIDAS/Adobe) LUT to an image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/apply-cube-lut.git"
+  },
+  "keywords": [
+    "cube",
+    "lut",
+    "lookup",
+    "color",
+    "grading"
+  ],
+  "author": "thibauts",
+  "license": "MIT"
+}
