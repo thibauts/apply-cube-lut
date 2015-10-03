@@ -9,9 +9,9 @@ LUT files are useful for color grading, encapsulating complex color-space transf
 Example
 -------
 
-Photograph transformed with a Fuji 400h stock emulation LUT.
+Photograph transformed with a Fuji 400H stock emulation LUT.
 
-<img src="http://i.imgur.com/tebHX4X.jpg" /><img src="http://i.imgur.com/AaLmDyg.jpg" />
+<img src="http://i.imgur.com/tebHX4X.jpg" /> <img src="http://i.imgur.com/AaLmDyg.jpg" />
 
 Install
 -------
