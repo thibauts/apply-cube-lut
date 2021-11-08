@@ -27,8 +27,8 @@ function applyCubeLUT(dest, src, lut) {
   var dmin = lut.domain[0];
   var dmax = lut.domain[1];
 
-  for(y=0; y<src.shape[1]; y++) {
-    for(x=0; x<src.shape[0]; x++) {
+  for(var y=0; y<src.shape[1]; y++) {
+    for(var x=0; x<src.shape[0]; x++) {
       var ri = src.get(x, y, 0);
       var gi = src.get(x, y, 1);
       var bi = src.get(x, y, 2);
